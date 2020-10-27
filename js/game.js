@@ -27,7 +27,7 @@ d3.select("#pent")
 .on("click", function()
 {
 d3.select("#ban")
-.text("Pentagram");
+.text("Pentagon");
 })
 
 d3.select("#rec")
